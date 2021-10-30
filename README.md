@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MarcPhilippeJoly
-- 👀 I’m interested in computer science, mechanics, geometric algebra, analysis and automated learning.
-- 🌱 I’m currently learning how to not suck too much at JavaScript
-- 💞️ I’m looking to collaborate on making this world more efficient, fun and comfy. 
-- ✨ I need help in order to build the prototype of an amazing wind-propeled vehicule like no other. 
+- 👀 I’m interested in computer science, mechanics, geometry, analysis, intelligence and passive design.
+- 🌱 I’m currently learning how to not suck at JavaScript.
+- 💞️ I’m looking to collaborate on making this world nicer, more fun and comfy. 
+- ✨ I need help building the prototype of a wind-powered vehicle that will change the art of navigation forever. 
 - 📫 Reach me there if needed: marcphilippejoly.fr
 
 <!---
